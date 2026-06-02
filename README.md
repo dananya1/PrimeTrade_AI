@@ -125,6 +125,6 @@ This project demonstrates that market sentiment significantly impacts trader beh
 2. Install required libraries:
    pip install pandas numpy matplotlib seaborn
 
-3. Open the Jupyter notebook
+3. Open the Jupyter notebook or Google Colab
 
 4. Run all cells sequentially
